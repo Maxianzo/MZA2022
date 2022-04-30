@@ -1,0 +1,16 @@
+ body {color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+    background: #86f;
+    width: auto;
+    margin: auto;
+    background-image: url(Presentación3.png);
+}
+h1{
+   text-decoration: underline;
+}
+
+.video{
+   width: 500px;
+   height: 500px;
+}
