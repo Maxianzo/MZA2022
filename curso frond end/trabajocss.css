@@ -1,10 +1,13 @@
- body {color: greenyellow;
+ body {color: black;
     font-size: 30px;
     text-align: center;
-    background: #86f;
+    background: linear-gradient(-45deg,red,blue);
+
+    background-size: cover;
     width: auto;
     margin: auto;
-    background-image: url(Presentación3.png);
+     background: url(images.jpg)
+}
 }
 h1{
    text-decoration: underline;
@@ -13,4 +16,77 @@ h1{
 .video{
    width: 500px;
    height: 500px;
+}
+header{background: linear-gradient(-5deg,orange,red);;
+  padding: 5px;
+  border: 3px solid black;
+ ;
+}
+
+
+.nav1{background: linear-gradient(-5deg,white,yellow);
+    position: fixed;
+    color: black;
+    padding: 1px;
+    width: 235px;
+border: solid;
+margin-left: 10px;
+box-shadow: 10px 10px 10px 0px #000;}
+
+.nav2{background: linear-gradient(-5deg,white,yellow);
+    position: fixed;
+    box-shadow: 10px 10px 10px 0px #000;
+    width: 234px%;
+border: solid;
+     margin-left: 900px;}
+.nav3{background: linear-gradient(-5deg,white,yellow);
+    box-shadow: 10px 10px 10px 0px #000;
+    position: fixed;
+ width: 234px;
+ border: solid;
+    margin-left: 300px;}
+
+
+.nav4{background: linear-gradient(-5deg,white,yellow);
+    box-shadow: 10px 10px 10px 0px #000;
+    position: fixed;
+ width: 234px;
+ border: solid;
+    margin-left: 600px;
+
+}
+
+
+section{background: linear-gradient(-5deg,orange,yellow);
+  width:58%;
+float: left;
+margin: 1%;
+padding: 5px;
+border: 3px solid black;
+box-sizing: border-box;
+
+}
+aside{background: linear-gradient(-5deg,white,red);
+width:38%;
+float: left;
+margin:1%;
+padding: 5px;
+border: 3px solid black;
+box-sizing: border-box;}
+footer{background: white;
+clear: both;
+width:100%;
+float: left;
+margin:1%;
+padding: 5px;
+box-sizing: border-box;}
+
+.cas{background: linear-gradient(-5deg,purple,yellow);
+  width:100%;
+  float: left;
+  margin:1%;
+  padding: 5px;
+  border: 3px solid black;
+  box-sizing: border-box;
+
 }
