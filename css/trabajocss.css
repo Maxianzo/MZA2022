@@ -1,0 +1,173 @@
+ @font-face{
+    font-family: "max";
+    src: url(SalmaAlfasans-Light.otf);
+   format:truetype ;
+
+ }
+
+ body {color: black;
+    font-size: 30px;
+    text-align: center;
+    background: linear-gradient(-45deg,red,blue);
+    
+    background-size: cover;
+    width: auto;
+    margin: auto;
+     background: url(../images.jpg);
+    
+}
+}
+h1{
+   text-decoration: underline;
+}
+
+.video{
+   width: 500px;
+   height: 500px;
+}
+header{background: linear-gradient(-5deg,orange,red);
+  
+  height: 10vh;
+  border: 3px solid black;
+  font-family: 'Macondo', cursive;
+ font-size: 2em;
+}
+
+nav{
+    background: linear-gradient(-5deg,orange,violet);
+    height: 10vh;
+      border: 3px solid black;
+      display: flex;
+    align-content: stretch;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row-revers;
+    font-family: "max";
+    font-size: 2rem ;
+}
+
+.div1{background: linear-gradient(-5deg,white,yellow);
+    
+    color: black;
+    padding: 1px;
+    width: 235px;
+border: solid;
+
+box-shadow: 10px 10px 10px 0px #000;}
+
+.div2{background: linear-gradient(-5deg,white,yellow);
+ 
+    box-shadow: 10px 10px 10px 0px #000;
+    width: 234px%;
+border: solid;
+     }
+
+.div3{background: linear-gradient(-5deg,white,yellow);
+    box-shadow: 10px 10px 10px 0px #000;
+   
+ width: 234px;
+ border: solid;
+   }
+
+.div4{background: linear-gradient(-5deg,white,yellow);
+    box-shadow: 10px 10px 10px 0px #000;
+   
+ width: 234px;
+ border: solid;
+   ;
+
+}
+
+
+section{background: linear-gradient(-5deg,orange,yellow);
+  width:58%;
+float: left;
+margin: 1%;
+padding: 5px;
+border: 3px solid black;
+box-sizing: border-box;
+
+}
+section:{
+    width: 100%;
+}
+aside{background: linear-gradient(-5deg,white,red);
+width:38%;
+float: left;
+margin:1%;
+padding: 5px;
+border: 3px solid black;
+box-sizing: border-box;}
+footer{background: white;
+clear: both;
+width:100%;
+float: left;
+margin:1%;
+padding: 5px;
+box-sizing: border-box;}
+
+.cas{background: linear-gradient(-5deg,purple,yellow);
+  width:100%;
+  float: left;
+  margin:1%;
+  padding: 5px;
+  border: 3px solid black;
+  box-sizing: border-box;
+
+}
+
+.contacto{
+
+background: linear-gradient(-5deg,white,blue);;
+clear: both;
+width:50%;
+order: 50%;
+float: left;
+margin:1%;
+padding: 5px;
+box-sizing: border-box
+
+}
+.index{
+    background: linear-gradient(-5deg,white,blue);;
+clear: both;
+width:10%;
+float: left;
+margin: -1%;
+padding: 7px;
+box-sizing: border-box
+}
+
+.contacto:hover{
+    width:100%;
+    height: 10%;
+    transition-duration: 2s;
+    transition-delay: 2s;
+   
+
+}
+.div1:hover{
+   opacity: 0.8;
+    height: 50%;
+}
+.div2:hover{
+    content: "lo mejor";
+opacity: 0.8;
+
+    height: 50%;
+}
+
+.div3:hover{
+    opacity: 0.8;
+    height: 50%;
+}
+.div4:hover{
+   opacity: 0.8;
+    height: 50%;
+}
+
+
+.img{
+    background: 20vw;
+}
