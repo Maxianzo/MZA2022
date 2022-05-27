@@ -10,7 +10,6 @@
     font-size: 21px;
     text-align: center;
     background: linear-gradient(-45deg,red,blue);
-    
     background-size: cover;
     width: auto;
     margin: auto;
@@ -189,19 +188,3 @@ opacity: 0.8;
     background: 20vw;
 }
 
-@media (max-width: 700px){
-    nav{
-        background: red;
-        justify-content: space-around;
-    align-items: stretch
-}
-
-@media(max-width: 700px)
-{
-    header{ display: none;
-
-}
-@media(min-width: 700px){
-
-    .maci{display:none;
-}

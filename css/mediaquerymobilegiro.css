@@ -1,0 +1,38 @@
+@media (max-width: 576px){
+    nav{
+        background: darkblue;
+        justify-content: space-around;
+    align-items: stretch
+}}
+
+@media(max-width: 576px)
+{
+    header{ display: none;
+
+}}
+@media(min-width: 576px){
+
+    .maci{display:none;
+}}
+
+
+
+@media (max-width: 576px){
+    body{
+        color: white;
+        background: linear-gradient(-45deg,red,green);
+    }
+}
+
+@media (max-width: 576px ){
+    section{
+        background:linear-gradient(-45deg,ghostwhite,blue)}
+}
+
+
+
+
+
+
+
+
