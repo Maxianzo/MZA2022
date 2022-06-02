@@ -6,6 +6,18 @@
  }
 
 
+
+.sobreamarillo:hover{
+    background: yellow;
+}
+
+
+
+
+
+
+
+
  body {color: black;
     font-size: 21px;
     text-align: center;
@@ -185,6 +197,7 @@ opacity: 0.8;
 
 
 .img{
-    background: 20vw;
+    
+   
 }
 
